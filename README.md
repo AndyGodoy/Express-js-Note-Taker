@@ -40,5 +40,7 @@ As a bonus, the application also supports deleting notes. The following route is
 
 DELETE /api/notes/:id: Receives a query parameter containing the ID of the note to delete. It removes the note with the given ID from the db.json file.
 
+https://exprpessnotetaker-90459819e360.herokuapp.com/
+file:///Users/andygodoy/Downloads/screencapture-exprpessnotetaker-90459819e360-herokuapp-2023-08-01-17_38_12.pdf
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
